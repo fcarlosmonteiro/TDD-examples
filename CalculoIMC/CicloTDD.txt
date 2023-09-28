@@ -1,0 +1,11 @@
+1 - Criação do teste
+    - Testes criados e função a ser testada também, se encontram nas pastas spec e src respectivamente.
+    - Para executar o teste e visualizar os resultados executar o arquivo SpecRunner.html na raiz deste projeto.
+
+2 - Identificando o problema e ajustando o problema
+    - Neste projeto passamos a altura com centimentros e a formula do calculo é utiliza e metros, na função de calcular o IMC falta ajustar o valor recebido em CM para M.
+    - Reexecutar os testes utilizando o arquivo SpecRunner.html na raiz deste projeto.
+
+3 - Refatorando a classe de calculo
+    - Categorizar os resultados de cada categoria de IMC com códigos para não ser comparado a textos.
+    - Utilizar case para validar os resultados do calculo do IMC
