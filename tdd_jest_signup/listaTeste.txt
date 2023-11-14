@@ -1,0 +1,8 @@
+Sequência de testes:
+retorna falso para input de senha vazio.
+retorna falso para senha sem número.
+retorna falso para senha sem letra.
+retorna TRUE para senha com número, letra, e com 8 ou mais caracteres
+retorna FALSE para senha com número, letra, e menos de 8 caracteres.
+retorna TRUE para senha com número, letras maiúsculas, e com 8 ou mais caracteres.
+retorna TRUE para senha com número, com letra maiúscula e minúscula, e com 8 ou mais caracteres.
